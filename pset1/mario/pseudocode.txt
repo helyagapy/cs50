@@ -1,0 +1,5 @@
+Prompt user to provide height of stairs
+If user provides an integer value less than 1 or greater than 8 or a non-integer value
+    Repeat line 2 until user provides integer value [1,8]
+Iterate from 1 through height
+    For each height level i, print equivalent i number of # and then a newline
